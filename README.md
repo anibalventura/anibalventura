@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **small android apps.**
 - 🌱 I’m currently learning **android development and kotlin.**
-- 👨‍💻 All of my projects are available at [www.anibalventura.com](www.anibalventura.com)
+<!-- - 👨‍💻 All of my projects are available at [www.anibalventura.com](www.anibalventura.com) -->
 - 💬 Ask me about **Android, Kotlin or Jetpack.**
 - 📫 How to reach me **anibalventura20@gmail.com**
 
