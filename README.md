@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Anibal Ventura</h1>
 <h3 align="center">A passionate Android Developer from Dominican Republic</h3>
 
-- 🔭 I’m currently working on **small Android apps to learn.**
+- 🔭 I’m currently working on **small android apps.**
 
-- 🌱 I’m currently learning **Android Development in general.**
+- 🌱 I’m currently learning **android development and kotlin.**
 
 - 👨‍💻 All of my projects are available at [www.anibalventura.com](www.anibalventura.com)
 
