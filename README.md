@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anibal Ventura 👨‍💻</h1>
 <h3 align="center">A passionate Mobile App Developer from Dominican Republic 🇩🇴</h3>
 
-- 🔭 I’m currently working on **small mobile apps to learn**.
-- 👯 I’m looking to collaborate on **native Android and Flutter related projects**.
-- 🌱 I’m currently learning **native Android and Flutter.**
-- 🤔 I’m looking for help with **anything related to what i am currently learning 😅**.
+- 🔭 I’m currently working on **small mobile apps**.
+- 👯 I’m looking to collaborate on **Android/Kotlin and Flutter/Dart related projects**.
 - 💬 Ask me about **Android/Kotlin or Flutter/Dart**.
 - 📫 How to reach me **anibalventura20@gmail.com**
 - 📄 Know about my experiences **www.anibalventura.com**
