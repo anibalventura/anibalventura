@@ -39,4 +39,3 @@
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibalventura&theme=tokyonight&layout=compact" alt="anibalventura" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@anibalventura&theme=tokyonight&layout=compact" alt="anibalventura" /></p>
