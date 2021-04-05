@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=FFFFFF">
-  <img src="https://img.shields.io/badge/-iOS-000000?style=flat&logo=ios&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-iOS-000000?style=flat&logo=apple&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=xcode&logoColor=FFFFFF">
 </p>
 <p align="center">
