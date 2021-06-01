@@ -1,11 +1,10 @@
-<h1 align="center">Hi 👋, I'm Anibal Ventura 👨‍💻</h1>
+<h1 align="center">Hi 👋🏽, I'm Anibal Ventura 👨🏽‍💻</h1>
 <h3 align="center">A passionate Software Developer from Dominican Republic 🇩🇴</h3>
 
 - 🔭 I'm currently working on **small projects to grow my knowledge**.
 - 👯 I’m looking to collaborate on **Flutter/Dart related projects**.
 - 📫 How to reach me **anibalventura20@gmail.com**
 - 📄 Know about my experiences **www.anibalventura.com**
-- ⚡ Fun fact: **I have a Bachelor's Degree in Business Administration**.
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
