@@ -35,3 +35,5 @@
 <br>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibalventura&theme=tokyonight&layout=compact" alt="anibalventura" /></p>
+
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=anibalventura&theme=tokyonight" alt="anibalventura" /></p>
