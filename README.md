@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋🏽, I'm Anibal Ventura 👨🏽‍💻</h1>
-<h3 align="center">A passionate Software Developer from Dominican Republic 🇩🇴</h3>
+<h3 align="center">A passionate Mobile App Developer from Dominican Republic 🇩🇴</h3>
 
 - 🔭 I'm currently working on **small projects to grow my knowledge**.
 - 👯 I’m looking to collaborate on **Flutter/Dart related projects**.
