@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Mobile App Developer from Dominican Republic 🇩🇴</h3>
 
 - 🔭 I'm currently working on **personal projects to grow my knowledge**.
-<!-- - 👯 I’m looking to collaborate on **Flutter/Dart related projects**. -->
 - 📫 How to reach me **anibalventura20@gmail.com**
 - 📄 Know about my experiences **www.anibalventura.com**
 
