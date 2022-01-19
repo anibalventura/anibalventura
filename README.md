@@ -1,22 +1,12 @@
 <h1 align="center">Hi 👋🏽, I'm Anibal Ventura 👨🏽‍💻</h1>
 <h3 align="center">A passionate Mobile App Developer from Dominican Republic 🇩🇴</h3>
 
-<br>
-
-<ul
-  style="
-  display: table;
-  margin: 0 auto;
-  list-style-type: none;
-  ">
-  <li>🔭 I'm currently open to work.</li>
-  <li>💼 I’m pursuing a degree in Computer Science.</li>
-  <li>💬 Ask me about iOS, Android or Flutter.</li>
-  <li>📫 Email via anibalventura20@gmail.com to reach me.</li>
-  <li>📝 See my <a href="https://anibalventura.com">portfolio</a> to get more info.</li>
-</ul>
-
-<br>
+<div align="center">
+  🔭 I'm currently open to work. <br>
+  💬 Ask me about iOS, Android or Flutter. <br>
+  📫 Email via <a href="mailto:anibalventura20@gmail.com">anibalventura20@gmail.com</a> to reach me. <br>
+  📝 See my <a href="https://anibalventura.com">portfolio</a> to get more info. <br>
+</div>
 
 <h3 align="center">Languages and Tools:</h3>
 
