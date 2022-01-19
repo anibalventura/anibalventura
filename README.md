@@ -1,11 +1,22 @@
 <h1 align="center">Hi 👋🏽, I'm Anibal Ventura 👨🏽‍💻</h1>
 <h3 align="center">A passionate Mobile App Developer from Dominican Republic 🇩🇴</h3>
 
-- 🔭 I'm currently open to work.
-- 💼 I’m pursuing a degree in Computer Science.
-- 💬 Ask me about iOS, Android or Flutter.
-- 📫 Email via **anibalventura20@gmail.com** to reach me.
-- 📝 See my [portfolio](https://anibalventura.com) to get more info.
+<br>
+
+<ul
+  style="
+  display: table;
+  margin: 0 auto;
+  list-style-type: none;
+  ">
+  <li>🔭 I'm currently open to work.</li>
+  <li>💼 I’m pursuing a degree in Computer Science.</li>
+  <li>💬 Ask me about iOS, Android or Flutter.</li>
+  <li>📫 Email via anibalventura20@gmail.com to reach me.</li>
+  <li>📝 See my <a href="https://anibalventura.com">portfolio</a> to get more info.</li>
+</ul>
+
+<br>
 
 <h3 align="center">Languages and Tools:</h3>
 
@@ -47,11 +58,12 @@
 
 <br>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibalventura&theme=tokyonight&layout=compact" alt="Most Used Languages" />
-</p>
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibalventura&theme=tokyonight&layout=compact" alt="Most Used Languages" />
+  </p>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anibalventura&show_icons=true&theme=tokyonight" alt="Github Stats" />
-</p>
-
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=anibalventura&show_icons=true&theme=tokyonight" alt="Github Stats" />
+  </p>
+</div>
