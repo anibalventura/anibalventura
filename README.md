@@ -16,13 +16,13 @@
   <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-Android Studio-3DDC84?style=flat&logo=android-studio&logoColor=FFFFFF">
-</p>
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=FFFFFF">
+  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=FFFFFF">
 </div>
 
 <div align="center">
@@ -47,10 +47,11 @@
 
 <br>
 
-<div align="center">
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibalventura&theme=tokyonight&layout=compact" alt="Most Used Languages" />
+</p>
 
-  <br>
-
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anibalventura&show_icons=true&theme=tokyonight" alt="Github Stats" />
-</div>
+</p>
+
