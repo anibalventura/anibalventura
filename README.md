@@ -4,7 +4,7 @@
 <div align="center">
   🔭 I'm currently open to work. <br>
   💬 Ask me about iOS, Android or Flutter. <br>
-  📫 Email via <a href="mailto:anibalventura20@gmail.com">anibalventura20@gmail.com</a> to reach me. <br>
+  📫 Email via <a href="mailto:contact@anibalventura.com">contact@anibalventura.com</a> to reach me. <br>
   📝 See my <a href="https://anibalventura.com">portfolio</a> to get more info. <br>
 </div>
 
