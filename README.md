@@ -32,8 +32,9 @@
   </div>
 
   <div>
-      <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/-VS Code-007ACC?style=flat&logo=visualstudiocode&logoColor=FFFFFF">
   </div>
   </td>
   
@@ -56,12 +57,16 @@
   <td align="center">
   <div>
     <img src="https://img.shields.io/badge/-iOS-808080?style=flat&logo=apple&logoColor=FFFFFF">
-    <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=xcode&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat&logo=xcode&logoColor=FFFFFF">
   </div>
 
   <div>
     <img src="https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=FFFFFF">
     <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin&logoColor=FFFFFF">
+  </div>
+  <div>
+    <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat&logo=androidstudio&logoColor=FFFFFF">
   </div>
   </td>
   </tr>
