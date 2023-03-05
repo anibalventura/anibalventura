@@ -36,10 +36,7 @@
 
 <div>
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibalventura&theme=tokyonight&layout=compact" alt="Most Used Languages" />
-  </p>
-
-  <p>
     <img src="https://github-readme-stats.vercel.app/api?username=anibalventura&show_icons=true&theme=tokyonight" alt="Github Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anibalventura&theme=tokyonight&layout=compact" alt="Most Used Languages" />
   </p>
 </div>
