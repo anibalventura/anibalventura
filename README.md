@@ -19,7 +19,6 @@
 <div>
   <img src="https://img.shields.io/badge/-MSSQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=FFFFFF">
   <img src="http://img.shields.io/badge/-OracleDB-F80000?style=flat&logo=oracle&logoColor=white">
-  <img src="http://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white">
   <img src="http://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white">
   <img src="http://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white">
   <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=FFFFFF">
