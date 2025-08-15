@@ -11,7 +11,7 @@
 ---
 
 ### 👨🏽‍💻 About Me
-- 🔹 Backend specialist with strong focus on **Java + Spring Boot**, **Python**, and **Node.js** for robust API design.
+- 🔹 Backend specialist with strong focus on **Java/Spring Boot**, **Python**, and **Node.js/NestJS** for robust API design.
 - 🍏 Passionate about building smooth, modern apps with **Swift & SwiftUI** for iOS and macOS.
 - 🚀 Advocate for clean code, scalability, and great developer experience.
 - 🌱 Always learning — currently exploring **cloud-native architectures** and **Swift concurrency**.
