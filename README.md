@@ -1,5 +1,5 @@
 <h1>Hi 👋🏽, I'm Anibal Ventura 👨🏽‍💻</h1>
-<h3>Backend & Swift/SwiftUI Developer from the Dominican Republic 🇩🇴</h3>
+<h3>Backend & Apple Developer from the Dominican Republic 🇩🇴</h3>
 
 <div>
   🔭 &nbsp;I'm currently open to work. <br>
@@ -34,7 +34,7 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=FFFFFF">
 </div>
 
-#### 🍏 Swift & SwiftUI
+#### 🍏 Apple Development
 <div>
   <img src="https://img.shields.io/badge/-Swift-FA7343?style=flat&logo=swift&logoColor=white">
   <img src="https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat&logo=swift&logoColor=white">
